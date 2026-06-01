@@ -103,11 +103,3 @@ Validar el correcto funcionamiento de los flujos principales de Urban Routes med
     <li>Documentación de requisitos</li>
     <li>Metodologías de QA Manual</li>
 </ul>
-
-<h2>👨‍💻 Autor</h2>
-
-<p>
-<b>Jesús Salas Soto</b><br>
-Ingeniería en Sistemas Computacionales<br>
-QA Engineer
-</p>
